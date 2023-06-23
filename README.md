@@ -1,0 +1,2 @@
+# shadow-audits
+This are previous audit hacks previously taken place on code4rena and sherlock. recreated to test knowledge
