@@ -1,1 +1,1 @@
-Created a [Github Gist](https://gist.github.com/Izzycious/3f6ad0dac32454b0193a8dd10b8ccfd6) explaining my process and thoughts before getting onto mmy findings [
+Created a [Github Gist](https://gist.github.com/Izzycious/3f6ad0dac32454b0193a8dd10b8ccfd6) explaining my process and thoughts before getting onto mmy findings 
